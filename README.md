@@ -20,14 +20,19 @@ Insight&Recommendations-Suggest ways of improving viewership highlighted trends.
 
 ## 📌Recommendations
 Targeted programming-Create content that fits the preferences of high engagement demographics
-Province focused strategy- Create marketing for all provinces with high or low engagement.
-Improve low-performing channels- Adjust scheduling or content mix.
-Leverage social media- Promote channels using viewer handles to increase engagement.
 
+Province focused strategy- Create marketing for all provinces with high or low engagement.
+
+Improve low-performing channels- Adjust scheduling or content mix.
+
+Leverage social media- Promote channels using viewer handles to increase engagement.
 ## 🛠️Tools
 DataBricks
+
 Excel
+
 PowerPoint Presentation
+
 Miro
-Excel gantt 
+
 
